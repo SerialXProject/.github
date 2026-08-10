@@ -4,7 +4,7 @@
 
 ## 🚀 Comunicazione Seriale Semplificata e Avanzata per Arduino e Microcontrollori
 
-**SerialXProject** è un progetto in fase di sviluppo che verrà rilasciato completamente nelle prossime settimane in modalità **open-source** sotto **licenza GNU** 🐧.
+**SerialXProject** è un progetto in fase di sviluppo rilasciato in modalità **open-source** sotto **licenza GNU** 🐧.
 
 ---
 
